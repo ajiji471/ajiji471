@@ -9,10 +9,10 @@
 
 - 🔭 I’m currently working at **PT. CBA Chemical Industry** | [🌐 Portfolio](https://www.eijiverse.my.id)
 - 🌱 I’m currently learning **React JS**, **Laravel**, **Flutter**
-- 👨‍💻 All of my projects are at [www.ajiji.my.id](https://www.eijiverse.my.id)
-- ✍️ I also write regularly at [www.ajiji.my.id](https://www.eijiverse.my.id)
+- 👨‍💻 All of my projects are at [www.eijiverse.my.id](https://www.eijiverse.my.id)
+- ✍️ I also write regularly at [www.eijiverse.my.id](https://www.eijiverse.my.id)
 - 📫 How to reach me: **ijiajiji@gmail.com**
-- 📄 Know more about my experience: [🧾 eijiverse.my.id](https://www.eijiverse.my.id)
+- 📄 Know more about my experience: [🧾 www.eijiverse.my.id](https://www.eijiverse.my.id)
 
 ---
 
